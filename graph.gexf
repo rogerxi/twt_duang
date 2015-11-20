@@ -1,0 +1,886 @@
+<gexf xmlns:viz="http://www.gexf.net/1.1draft/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://www.gephi.org/gexf/1.1draft" xmlns:ns0="xsi" version="1.1" ns0:schemaLocation="http://www.gephi.org/gexf/1.1draft http://gephi.org/gexf/1.1draft.xsd">
+  <meta lastmodified="2015-11-19T12:48:54.875748">
+    <creator>Duang</creator>
+    <description>A GEXF file about Tweets</description>
+  </meta>
+  <graph defaultedgetype="directed" label="Tweets Graph" mode="dynamic" timeformat="dateTime">
+    <attributes class="node" mode="dynamic"/>
+    <attributes class="node" mode="static"/>
+    <attributes class="edge" mode="dynamic"/>
+    <attributes class="edge" mode="static"/>
+    <nodes>
+      <node id="452460392" label="HannahBrns" start="2012-01-01T21:43:32">
+        <attvalues/>
+      </node>
+      <node id="171237653" label="belo_bnd" start="2010-07-26T22:06:56">
+        <attvalues/>
+      </node>
+      <node id="3908308181" label="AnujKum83587689" start="2015-10-09T11:04:34">
+        <attvalues/>
+      </node>
+      <node id="526421372" label="CathyGuillon" start="2012-03-16T13:57:09">
+        <attvalues/>
+      </node>
+      <node id="57253726" label="mineshah" start="2009-07-16T05:30:31">
+        <attvalues/>
+      </node>
+      <node id="71592176" label="shivam_mainpuri" start="2009-09-04T17:46:29">
+        <attvalues/>
+      </node>
+      <node id="14286491" label="gedankenstuecke" start="2008-04-02T19:12:51">
+        <attvalues/>
+      </node>
+      <node id="2316603348" label="SWAP7PATEL" start="2014-01-29T06:06:47">
+        <attvalues/>
+      </node>
+      <node id="156464691" label="7NewsSydney" start="2010-06-17T01:05:23">
+        <attvalues/>
+      </node>
+      <node id="113877441" label="ajitkhosla" start="2010-02-13T09:50:51">
+        <attvalues/>
+      </node>
+      <node id="3996278860" label="medico_socials" start="2015-10-19T18:08:21">
+        <attvalues/>
+      </node>
+      <node id="2302669285" label="PhamzFam" start="2014-01-21T07:22:39">
+        <attvalues/>
+      </node>
+      <node id="2589610387" label="baclavafr" start="2014-06-26T13:27:27">
+        <attvalues/>
+      </node>
+      <node id="3188458722" label="BigRoarIndia" start="2015-05-08T07:59:31">
+        <attvalues/>
+      </node>
+      <node id="48396537" label="amithshetty_" start="2009-06-18T16:09:23">
+        <attvalues/>
+      </node>
+      <node id="454833482" label="Shr_Dixit" start="2012-01-04T12:45:02">
+        <attvalues/>
+      </node>
+      <node id="190573129" label="ramtaj0gi" start="2010-09-14T08:46:09">
+        <attvalues/>
+      </node>
+      <node id="3060189963" label="Marmo122" start="2015-02-24T20:52:52">
+        <attvalues/>
+      </node>
+      <node id="3054071735" label="simoanze" start="2015-02-22T22:05:09">
+        <attvalues/>
+      </node>
+      <node id="595506203" label="Olfrance" start="2012-05-31T13:57:37">
+        <attvalues/>
+      </node>
+      <node id="193275169" label="MAHIKINETICS" start="2010-09-21T12:36:13">
+        <attvalues/>
+      </node>
+      <node id="2913123853" label="pnanda2014" start="2014-11-28T22:08:10">
+        <attvalues/>
+      </node>
+      <node id="3063960286" label="allunited_off" start="2015-02-26T13:57:23">
+        <attvalues/>
+      </node>
+      <node id="592710940" label="KrishnaMitz" start="2012-05-28T13:05:14">
+        <attvalues/>
+      </node>
+      <node id="529539123" label="vyomika_" start="2012-03-19T17:07:32">
+        <attvalues/>
+      </node>
+      <node id="3546005896" label="knee45" start="2015-09-04T15:22:57">
+        <attvalues/>
+      </node>
+      <node id="2574232910" label="HRDMinistry" start="2014-06-18T05:56:11">
+        <attvalues/>
+      </node>
+      <node id="547818060" label="MonalisaBhr" start="2012-04-07T16:34:01">
+        <attvalues/>
+      </node>
+      <node id="2251112740" label="EmbleySaige" start="2013-12-30T00:53:10">
+        <attvalues/>
+      </node>
+      <node id="187214222" label="mcsharma_25" start="2010-09-05T16:03:01">
+        <attvalues/>
+      </node>
+      <node id="158006621" label="yanis_dikoof" start="2010-06-21T14:07:40">
+        <attvalues/>
+      </node>
+      <node id="121639467" label="7NewsMelbourne" start="2010-03-10T03:49:54">
+        <attvalues/>
+      </node>
+      <node id="505638293" label="YashJourno_" start="2012-02-27T08:28:15">
+        <attvalues/>
+      </node>
+      <node id="44705402" label="adrienfauth" start="2009-06-04T20:03:39">
+        <attvalues/>
+      </node>
+      <node id="2584412440" label="craigoneill73" start="2014-06-05T14:57:04">
+        <attvalues/>
+      </node>
+      <node id="38995168" label="anapaulavuoto" start="2009-05-10T04:24:11">
+        <attvalues/>
+      </node>
+      <node id="334600607" label="Ema_poet" start="2011-07-13T11:01:57">
+        <attvalues/>
+      </node>
+      <node id="207847445" label="fatiherel" start="2010-10-26T04:21:32">
+        <attvalues/>
+      </node>
+      <node id="21370484" label="jimrosenfield" start="2009-02-20T03:39:03">
+        <attvalues/>
+      </node>
+      <node id="569085800" label="OchanAgev" start="2012-05-02T12:59:45">
+        <attvalues/>
+      </node>
+      <node id="310110754" label="ArikGandhi" start="2011-06-03T06:30:45">
+        <attvalues/>
+      </node>
+      <node id="2425075166" label="SenseandC_sense" start="2014-04-03T05:46:01">
+        <attvalues/>
+      </node>
+      <node id="22967189" label="FilthyFrench" start="2009-03-05T19:48:43">
+        <attvalues/>
+      </node>
+      <node id="372745437" label="le_bataclan" start="2011-09-13T10:26:36">
+        <attvalues/>
+      </node>
+      <node id="2314920467" label="louannelqr" start="2014-01-30T20:46:18">
+        <attvalues/>
+      </node>
+      <node id="184008661" label="vidyutkaji" start="2010-08-28T13:08:34">
+        <attvalues/>
+      </node>
+      <node id="2453278854" label="advocatearun82" start="2014-04-19T14:52:14">
+        <attvalues/>
+      </node>
+      <node id="319815760" label="MusicWarren" start="2011-06-18T19:59:30">
+        <attvalues/>
+      </node>
+      <node id="633907460" label="caroben1" start="2012-07-12T17:40:40">
+        <attvalues/>
+      </node>
+      <node id="2313487754" label="Mahesh_narein" start="2014-01-27T11:26:37">
+        <attvalues/>
+      </node>
+      <node id="23460014" label="isthatrochelle" start="2009-03-09T17:05:32">
+        <attvalues/>
+      </node>
+      <node id="255878702" label="S_Mandalia" start="2011-02-22T06:25:39">
+        <attvalues/>
+      </node>
+      <node id="4270275793" label="vikas12789394" start="2015-11-17T18:05:23">
+        <attvalues/>
+      </node>
+      <node id="526368961" label="SehrawatRajat" start="2012-03-16T12:57:39">
+        <attvalues/>
+      </node>
+      <node id="2336920604" label="SivaramanTvs" start="2014-02-10T16:13:03">
+        <attvalues/>
+      </node>
+      <node id="594028608" label="g_tajoli" start="2012-05-29T18:51:27">
+        <attvalues/>
+      </node>
+      <node id="2717476790" label="Gravim71" start="2014-08-08T16:43:17">
+        <attvalues/>
+      </node>
+      <node id="835801130" label="guru1055" start="2012-09-20T15:29:26">
+        <attvalues/>
+      </node>
+      <node id="1637725969" label="LSDPmesaj" start="2013-08-01T10:50:28">
+        <attvalues/>
+      </node>
+      <node id="15755669" label="NBCPhiladelphia" start="2008-08-06T21:44:44">
+        <attvalues/>
+      </node>
+      <node id="250495841" label="NMenonRao" start="2011-02-11T05:58:09">
+        <attvalues/>
+      </node>
+      <node id="2868714950" label="akshakrawar" start="2014-10-21T09:37:41">
+        <attvalues/>
+      </node>
+      <node id="586597811" label="WhenBaeLikesYou" start="2012-05-21T14:45:49">
+        <attvalues/>
+      </node>
+      <node id="236294257" label="nishbravo" start="2011-01-10T07:38:30">
+        <attvalues/>
+      </node>
+      <node id="130104041" label="smritiirani" start="2010-04-06T09:32:32">
+        <attvalues/>
+      </node>
+      <node id="626384623" label="LPJofficiel" start="2012-07-04T11:21:24">
+        <attvalues/>
+      </node>
+      <node id="1719203881" label="smeet_patil" start="2013-09-01T14:15:28">
+        <attvalues/>
+      </node>
+      <node id="2936472497" label="FranceinPondi" start="2014-12-22T04:40:52">
+        <attvalues/>
+      </node>
+      <node id="45177874" label="250praveen" start="2009-06-06T17:55:26">
+        <attvalues/>
+      </node>
+      <node id="2230583622" label="DianaGhafarian" start="2013-12-04T22:47:11">
+        <attvalues/>
+      </node>
+      <node id="59981930" label="KatieWalker014" start="2009-07-25T04:39:26">
+        <attvalues/>
+      </node>
+      <node id="2323772125" label="nirbhaisingh07" start="2014-02-02T13:17:11">
+        <attvalues/>
+      </node>
+      <node id="825872600" label="pengtts" start="2012-09-15T19:57:23">
+        <attvalues/>
+      </node>
+      <node id="192194012" label="CSZIM" start="2010-09-18T13:06:16">
+        <attvalues/>
+      </node>
+      <node id="55882740" label="Sharanyashettyy" start="2009-07-11T17:39:53">
+        <attvalues/>
+      </node>
+      <node id="3016946719" label="harishkrcr" start="2015-02-11T16:35:51">
+        <attvalues/>
+      </node>
+      <node id="3305148828" label="ShivSha72275437" start="2015-08-03T14:04:10">
+        <attvalues/>
+      </node>
+      <node id="195314408" label="mahadevrdesai" start="2010-09-26T11:19:17">
+        <attvalues/>
+      </node>
+      <node id="2248684005" label="h2brgrd" start="2013-12-28T19:44:40">
+        <attvalues/>
+      </node>
+      <node id="273065836" label="Souljaian" start="2011-03-27T19:16:54">
+        <attvalues/>
+      </node>
+      <node id="3747728185" label="EagleEyeIndia" start="2015-10-01T12:10:09">
+        <attvalues/>
+      </node>
+      <node id="1913668759" label="ibhagwa_n" start="2013-09-28T09:07:19">
+        <attvalues/>
+      </node>
+      <node id="2459550990" label="SuperSimoFans" start="2014-04-23T10:55:16">
+        <attvalues/>
+      </node>
+      <node id="132911028" label="vinirish" start="2010-04-14T14:11:20">
+        <attvalues/>
+      </node>
+      <node id="3228574253" label="Erin_andflowers" start="2015-05-02T16:22:27">
+        <attvalues/>
+      </node>
+      <node id="192060796" label="adamdesiderio" start="2010-09-18T02:26:18">
+        <attvalues/>
+      </node>
+      <node id="458637630" label="DipakJairath" start="2012-01-08T19:51:00">
+        <attvalues/>
+      </node>
+      <node id="966445441" label="Ambre_svg" start="2012-11-23T16:42:58">
+        <attvalues/>
+      </node>
+      <node id="2437763798" label="sarosky6" start="2014-04-11T01:38:03">
+        <attvalues/>
+      </node>
+      <node id="568619704" label="DailyKENT" start="2012-05-01T23:15:44">
+        <attvalues/>
+      </node>
+      <node id="361136852" label="Victoriahch" start="2011-08-24T09:24:31">
+        <attvalues/>
+      </node>
+      <node id="411622500" label="VeryLaura" start="2011-11-13T17:20:33">
+        <attvalues/>
+      </node>
+      <node id="211786727" label="naushadthakral" start="2010-11-04T07:42:36">
+        <attvalues/>
+      </node>
+      <node id="92717464" label="solersandrine" start="2009-11-26T09:01:48">
+        <attvalues/>
+      </node>
+      <node id="29945291" label="Kewrious" start="2009-04-09T08:03:31">
+        <attvalues/>
+      </node>
+      <node id="37291805" label="FrankBruni" start="2009-05-02T21:53:33">
+        <attvalues/>
+      </node>
+      <node id="2240221207" label="1heRebel" start="2013-12-11T05:03:35">
+        <attvalues/>
+      </node>
+      <node id="1459360224" label="beatangers" start="2013-05-26T11:08:26">
+        <attvalues/>
+      </node>
+      <node id="3001149971" label="SussexLoverUK" start="2015-01-27T10:25:37">
+        <attvalues/>
+      </node>
+      <node id="1525768466" label="trilokucer" start="2013-06-17T20:08:13">
+        <attvalues/>
+      </node>
+      <node id="298705683" label="Selon_ely" start="2011-05-14T19:52:59">
+        <attvalues/>
+      </node>
+      <node id="278088995" label="mikeamor7" start="2011-04-06T15:49:36">
+        <attvalues/>
+      </node>
+      <node id="142023476" label="dilipjain1979" start="2010-05-09T18:31:09">
+        <attvalues/>
+      </node>
+      <node id="2813252366" label="simofans01" start="2014-09-16T14:42:17">
+        <attvalues/>
+      </node>
+      <node id="2574333767" label="AdriClt" start="2014-05-31T19:52:40">
+        <attvalues/>
+      </node>
+      <node id="2468218964" label="GabrieleBort" start="2014-04-28T20:14:27">
+        <attvalues/>
+      </node>
+      <node id="1341409082" label="1874AntBarberia" start="2013-04-10T08:57:50">
+        <attvalues/>
+      </node>
+      <node id="23151552" label="linda_villanti" start="2009-03-07T02:03:47">
+        <attvalues/>
+      </node>
+      <node id="1622723593" label="DrKanhaiyaTripa" start="2013-07-26T11:07:53">
+        <attvalues/>
+      </node>
+      <node id="35974030" label="thehitman29" start="2009-04-28T03:27:08">
+        <attvalues/>
+      </node>
+      <node id="254770370" label="theroyaleditor" start="2011-02-20T00:00:05">
+        <attvalues/>
+      </node>
+      <node id="334019522" label="elusivearcher" start="2011-07-12T13:11:55">
+        <attvalues/>
+      </node>
+      <node id="1572472460" label="RuchiraKamboj" start="2013-07-06T10:24:25">
+        <attvalues/>
+      </node>
+      <node id="45846954" label="BhariDhaatu" start="2009-06-09T14:24:35">
+        <attvalues/>
+      </node>
+      <node id="477786867" label="OlinThakur" start="2012-01-29T15:28:04">
+        <attvalues/>
+      </node>
+      <node id="402328841" label="KatieYu777" start="2011-10-31T22:11:13">
+        <attvalues/>
+      </node>
+      <node id="2163065573" label="MissKayliah" start="2013-11-01T09:06:22">
+        <attvalues/>
+      </node>
+      <node id="142197895" label="prakashbhutoria" start="2010-05-10T07:01:57">
+        <attvalues/>
+      </node>
+      <node id="1531822376" label="hoplr" start="2013-06-19T19:46:57">
+        <attvalues/>
+      </node>
+      <node id="75740417" label="chrimuraglia" start="2009-09-20T07:14:05">
+        <attvalues/>
+      </node>
+      <node id="15019344" label="WNEP" start="2008-06-05T15:34:54">
+        <attvalues/>
+      </node>
+      <node id="226148707" label="kumareuday" start="2010-12-13T12:53:02">
+        <attvalues/>
+      </node>
+      <node id="2500868281" label="ukkottooli" start="2014-05-17T07:14:23">
+        <attvalues/>
+      </node>
+      <node id="846067555" label="maganser5203" start="2012-09-25T19:05:31">
+        <attvalues/>
+      </node>
+      <node id="980250804" label="AnaTurchini" start="2012-11-30T11:17:25">
+        <attvalues/>
+      </node>
+      <node id="3303394478" label="SohebMehdiKhan" start="2015-08-01T13:49:26">
+        <attvalues/>
+      </node>
+      <node id="483289453" label="shereenmzd" start="2012-02-04T21:07:03">
+        <attvalues/>
+      </node>
+      <node id="55491369" label="SydRumZ3193" start="2009-07-10T06:31:13">
+        <attvalues/>
+      </node>
+      <node id="3193092325" label="ashokpatel851" start="2015-05-12T10:21:55">
+        <attvalues/>
+      </node>
+      <node id="370507954" label="SantoshMisra" start="2011-09-09T04:18:33">
+        <attvalues/>
+      </node>
+      <node id="2439914383" label="kraj4india" start="2014-04-12T11:45:32">
+        <attvalues/>
+      </node>
+      <node id="2270469355" label="AkramShahBJP" start="2013-12-31T14:57:08">
+        <attvalues/>
+      </node>
+      <node id="46048120" label="LaHauser" start="2009-06-10T05:46:22">
+        <attvalues/>
+      </node>
+      <node id="89922445" label="KILL__ALL" start="2009-11-14T11:52:41">
+        <attvalues/>
+      </node>
+      <node id="588447249" label="MyImpactSM" start="2012-05-23T15:25:38">
+        <attvalues/>
+      </node>
+      <node id="107832845" label="_AudreyP" start="2010-01-23T22:26:56">
+        <attvalues/>
+      </node>
+      <node id="27610771" label="surenmehla" start="2009-03-30T09:37:19">
+        <attvalues/>
+      </node>
+      <node id="999200442" label="Geoffrey_CtnT" start="2012-12-09T12:41:43">
+        <attvalues/>
+      </node>
+      <node id="111849062" label="nikhiljain2010" start="2010-02-06T10:06:07">
+        <attvalues/>
+      </node>
+      <node id="3480069260" label="tweetivy20" start="2015-09-07T09:00:19">
+        <attvalues/>
+      </node>
+      <node id="4189367777" label="EODMforNo1" start="2015-11-14T21:59:21">
+        <attvalues/>
+      </node>
+      <node id="2848415060" label="vpd21951" start="2014-10-09T07:06:54">
+        <attvalues/>
+      </node>
+      <node id="3758667797" label="BuurtGent" start="2015-09-24T09:20:46">
+        <attvalues/>
+      </node>
+      <node id="24842165" label="RichardNBC10" start="2009-03-17T04:54:57">
+        <attvalues/>
+      </node>
+      <node id="593531383" label="RajpalAmar" start="2012-05-29T09:02:10">
+        <attvalues/>
+      </node>
+      <node id="562197486" label="vicky20680" start="2012-04-24T15:32:56">
+        <attvalues/>
+      </node>
+      <node id="222765418" label="rmounce" start="2010-12-04T11:26:43">
+        <attvalues/>
+      </node>
+      <node id="2681748822" label="bjpkamal" start="2014-07-26T08:14:43">
+        <attvalues/>
+      </node>
+      <node id="124857648" label="xangreco" start="2010-03-20T20:34:50">
+        <attvalues/>
+      </node>
+      <node id="568709751" label="DailySUSSEX" start="2012-05-01T23:34:11">
+        <attvalues/>
+      </node>
+      <node id="95011517" label="artpasnet" start="2009-12-06T14:52:59">
+        <attvalues/>
+      </node>
+      <node id="85301908" label="hemantraha" start="2009-10-26T12:22:02">
+        <attvalues/>
+      </node>
+      <node id="131467581" label="LuckyKuzco" start="2010-04-10T10:34:26">
+        <attvalues/>
+      </node>
+      <node id="368638768" label="dcssunil" start="2011-09-06T00:00:05">
+        <attvalues/>
+      </node>
+      <node id="1541923837" label="rylee_halli" start="2013-06-23T21:39:35">
+        <attvalues/>
+      </node>
+      <node id="3029809612" label="AgArpitsizzle" start="2015-02-11T07:45:57">
+        <attvalues/>
+      </node>
+      <node id="2943823053" label="Bastien60230" start="2014-12-27T14:25:22">
+        <attvalues/>
+      </node>
+      <node id="116311025" label="Simo_Ventura" start="2010-02-22T00:43:16">
+        <attvalues/>
+      </node>
+      <node id="1562957431" label="FranceinIndia" start="2013-07-02T11:28:38">
+        <attvalues/>
+      </node>
+      <node id="1004764644" label="EmilieSct" start="2012-12-11T19:59:22">
+        <attvalues/>
+      </node>
+      <node id="1622601642" label="WoodAdair" start="2013-07-26T10:27:11">
+        <attvalues/>
+      </node>
+      <node id="1063005823" label="Jayati69" start="2013-01-05T13:23:12">
+        <attvalues/>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="666710975517745152" source="24842165" target="21370484" start="2015-11-17T20:14:18">
+        <attvalues/>
+      </edge>
+      <edge id="666764892276289537" source="2437763798" target="1572472460" start="2015-11-17T23:48:32">
+        <attvalues/>
+      </edge>
+      <edge id="667084992342659072" source="254770370" target="278088995" start="2015-11-18T21:00:30">
+        <attvalues/>
+      </edge>
+      <edge id="665528046540189697" source="3546005896" target="2589610387" start="2015-11-14T13:53:45">
+        <attvalues/>
+      </edge>
+      <edge id="666685470651187200" source="255878702" target="1572472460" start="2015-11-17T18:32:57">
+        <attvalues/>
+      </edge>
+      <edge id="666702729813692416" source="57253726" target="1572472460" start="2015-11-17T19:41:32">
+        <attvalues/>
+      </edge>
+      <edge id="666783708930662400" source="2848415060" target="1572472460" start="2015-11-18T01:03:19">
+        <attvalues/>
+      </edge>
+      <edge id="666829029165502464" source="236294257" target="1572472460" start="2015-11-18T04:03:24">
+        <attvalues/>
+      </edge>
+      <edge id="666686279707312130" source="111849062" target="1572472460" start="2015-11-17T18:36:10">
+        <attvalues/>
+      </edge>
+      <edge id="666997291115347968" source="3908308181" target="1572472460" start="2015-11-18T15:12:01">
+        <attvalues/>
+      </edge>
+      <edge id="666360686889537537" source="588447249" target="1541923837" start="2015-11-16T21:02:22">
+        <attvalues/>
+      </edge>
+      <edge id="666629188581888002" source="334019522" target="1572472460" start="2015-11-17T14:49:18">
+        <attvalues/>
+      </edge>
+      <edge id="666627492430630912" source="1719203881" target="1572472460" start="2015-11-17T14:42:34">
+        <attvalues/>
+      </edge>
+      <edge id="666684275526340609" source="2270469355" target="1572472460" start="2015-11-17T18:28:12">
+        <attvalues/>
+      </edge>
+      <edge id="666630285564375040" source="29945291" target="1572472460" start="2015-11-17T14:53:40">
+        <attvalues/>
+      </edge>
+      <edge id="666687086733295616" source="55882740" target="1572472460" start="2015-11-17T18:39:22">
+        <attvalues/>
+      </edge>
+      <edge id="666745757827923968" source="3303394478" target="1572472460" start="2015-11-17T22:32:30">
+        <attvalues/>
+      </edge>
+      <edge id="666627874783236096" source="211786727" target="1572472460" start="2015-11-17T14:44:05">
+        <attvalues/>
+      </edge>
+      <edge id="665372760412135424" source="35974030" target="38995168" start="2015-11-14T03:36:42">
+        <attvalues/>
+      </edge>
+      <edge id="666685256720871426" source="71592176" target="1572472460" start="2015-11-17T18:32:06">
+        <attvalues/>
+      </edge>
+      <edge id="666844372084723712" source="187214222" target="1572472460" start="2015-11-18T05:04:22">
+        <attvalues/>
+      </edge>
+      <edge id="666685456185057280" source="2453278854" target="1572472460" start="2015-11-17T18:32:53">
+        <attvalues/>
+      </edge>
+      <edge id="666300513789607936" source="298705683" target="95011517" start="2015-11-16T17:03:16">
+        <attvalues/>
+      </edge>
+      <edge id="665539612090245124" source="3054071735" target="116311025" start="2015-11-14T14:39:43">
+        <attvalues/>
+      </edge>
+      <edge id="667111298887479296" source="3758667797" target="1531822376" start="2015-11-18T22:45:02">
+        <attvalues/>
+      </edge>
+      <edge id="666689919264288768" source="2681748822" target="1572472460" start="2015-11-17T18:50:37">
+        <attvalues/>
+      </edge>
+      <edge id="666594813496664064" source="2163065573" target="319815760" start="2015-11-17T12:32:42">
+        <attvalues/>
+      </edge>
+      <edge id="666685330452406272" source="1063005823" target="1572472460" start="2015-11-17T18:32:23">
+        <attvalues/>
+      </edge>
+      <edge id="666992032552996864" source="22967189" target="1459360224" start="2015-11-18T14:51:07">
+        <attvalues/>
+      </edge>
+      <edge id="666686921897197568" source="195314408" target="1572472460" start="2015-11-17T18:38:43">
+        <attvalues/>
+      </edge>
+      <edge id="666833623849369603" source="2717476790" target="1572472460" start="2015-11-18T04:21:39">
+        <attvalues/>
+      </edge>
+      <edge id="666625441088872450" source="171237653" target="319815760" start="2015-11-17T14:34:25">
+        <attvalues/>
+      </edge>
+      <edge id="666409160586588161" source="980250804" target="825872600" start="2015-11-17T00:14:59">
+        <attvalues/>
+      </edge>
+      <edge id="665608701189992448" source="999200442" target="361136852" start="2015-11-14T19:14:15">
+        <attvalues/>
+      </edge>
+      <edge id="666690612482084864" source="2240221207" target="1572472460" start="2015-11-17T18:53:23">
+        <attvalues/>
+      </edge>
+      <edge id="666906651836944384" source="121639467" target="278088995" start="2015-11-18T09:11:50">
+        <attvalues/>
+      </edge>
+      <edge id="666310829403447296" source="3228574253" target="95011517" start="2015-11-16T17:44:15">
+        <attvalues/>
+      </edge>
+      <edge id="666684199252832256" source="1622723593" target="1572472460" start="2015-11-17T18:27:54">
+        <attvalues/>
+      </edge>
+      <edge id="666702173120565248" source="1525768466" target="1572472460" start="2015-11-17T19:39:19">
+        <attvalues/>
+      </edge>
+      <edge id="666775817989562368" source="526421372" target="2574333767" start="2015-11-18T00:31:57">
+        <attvalues/>
+      </edge>
+      <edge id="666811177406631940" source="3016946719" target="1572472460" start="2015-11-18T02:52:28">
+        <attvalues/>
+      </edge>
+      <edge id="666685082661339136" source="2868714950" target="1572472460" start="2015-11-17T18:31:24">
+        <attvalues/>
+      </edge>
+      <edge id="666937886760157185" source="3996278860" target="2230583622" start="2015-11-18T11:15:57">
+        <attvalues/>
+      </edge>
+      <edge id="666685878509563904" source="368638768" target="1572472460" start="2015-11-17T18:34:34">
+        <attvalues/>
+      </edge>
+      <edge id="666627889253732352" source="27610771" target="1572472460" start="2015-11-17T14:44:08">
+        <attvalues/>
+      </edge>
+      <edge id="666697760729636865" source="3305148828" target="1572472460" start="2015-11-17T19:21:47">
+        <attvalues/>
+      </edge>
+      <edge id="666023620204957696" source="569085800" target="411622500" start="2015-11-15T22:42:59">
+        <attvalues/>
+      </edge>
+      <edge id="666829043157766144" source="142197895" target="1572472460" start="2015-11-18T04:03:27">
+        <attvalues/>
+      </edge>
+      <edge id="666997772290293760" source="2251112740" target="15019344" start="2015-11-18T15:13:55">
+        <attvalues/>
+      </edge>
+      <edge id="666927484970139648" source="3996278860" target="2230583622" start="2015-11-18T10:34:37">
+        <attvalues/>
+      </edge>
+      <edge id="666017760409964544" source="107832845" target="23460014" start="2015-11-15T22:19:42">
+        <attvalues/>
+      </edge>
+      <edge id="666847124789657600" source="3188458722" target="1572472460" start="2015-11-18T05:15:18">
+        <attvalues/>
+      </edge>
+      <edge id="666686199638204416" source="529539123" target="1572472460" start="2015-11-17T18:35:51">
+        <attvalues/>
+      </edge>
+      <edge id="666691365716144128" source="2425075166" target="1572472460" start="2015-11-17T18:56:22">
+        <attvalues/>
+      </edge>
+      <edge id="667061456018546688" source="46048120" target="626384623" start="2015-11-18T19:26:59">
+        <attvalues/>
+      </edge>
+      <edge id="666240686145056768" source="1622601642" target="411622500" start="2015-11-16T13:05:32">
+        <attvalues/>
+      </edge>
+      <edge id="666769720625004544" source="835801130" target="1572472460" start="2015-11-18T00:07:44">
+        <attvalues/>
+      </edge>
+      <edge id="666181751732101120" source="2468218964" target="37291805" start="2015-11-16T09:11:21">
+        <attvalues/>
+      </edge>
+      <edge id="666845991052578816" source="2323772125" target="1572472460" start="2015-11-18T05:10:48">
+        <attvalues/>
+      </edge>
+      <edge id="667076508595462144" source="3060189963" target="15019344" start="2015-11-18T20:26:47">
+        <attvalues/>
+      </edge>
+      <edge id="666604642910912515" source="158006621" target="372745437" start="2015-11-17T13:11:46">
+        <attvalues/>
+      </edge>
+      <edge id="666666927826337793" source="192194012" target="131467581" start="2015-11-17T17:19:16">
+        <attvalues/>
+      </edge>
+      <edge id="666587746790584320" source="89922445" target="4189367777" start="2015-11-17T12:04:38">
+        <attvalues/>
+      </edge>
+      <edge id="666631649631703041" source="3747728185" target="1572472460" start="2015-11-17T14:59:05">
+        <attvalues/>
+      </edge>
+      <edge id="666808545204158464" source="2500868281" target="1572472460" start="2015-11-18T02:42:00">
+        <attvalues/>
+      </edge>
+      <edge id="666759828329512961" source="2913123853" target="1572472460" start="2015-11-17T23:28:25">
+        <attvalues/>
+      </edge>
+      <edge id="666711294259499008" source="2316603348" target="1572472460" start="2015-11-17T20:15:34">
+        <attvalues/>
+      </edge>
+      <edge id="666692194854551552" source="45846954" target="1572472460" start="2015-11-17T18:59:40">
+        <attvalues/>
+      </edge>
+      <edge id="666628406763646976" source="477786867" target="1572472460" start="2015-11-17T14:46:12">
+        <attvalues/>
+      </edge>
+      <edge id="666931909717553154" source="846067555" target="568619704" start="2015-11-18T10:52:12">
+        <attvalues/>
+      </edge>
+      <edge id="666172511546142720" source="222765418" target="14286491" start="2015-11-16T08:34:38">
+        <attvalues/>
+      </edge>
+      <edge id="665614429157986304" source="1637725969" target="207847445" start="2015-11-14T19:37:01">
+        <attvalues/>
+      </edge>
+      <edge id="666627196497371136" source="250495841" target="1572472460" start="2015-11-17T14:41:23">
+        <attvalues/>
+      </edge>
+      <edge id="665488704006397952" source="1341409082" target="116311025" start="2015-11-14T11:17:25">
+        <attvalues/>
+      </edge>
+      <edge id="666716734301319168" source="15755669" target="21370484" start="2015-11-17T20:37:11">
+        <attvalues/>
+      </edge>
+      <edge id="666710233419378688" source="526368961" target="1572472460" start="2015-11-17T20:11:21">
+        <attvalues/>
+      </edge>
+      <edge id="666828580353998849" source="2574232910" target="1572472460" start="2015-11-18T04:01:37">
+        <attvalues/>
+      </edge>
+      <edge id="666684751042883584" source="592710940" target="1572472460" start="2015-11-17T18:30:05">
+        <attvalues/>
+      </edge>
+      <edge id="666686796772823040" source="1913668759" target="1572472460" start="2015-11-17T18:38:13">
+        <attvalues/>
+      </edge>
+      <edge id="665641632587489280" source="633907460" target="44705402" start="2015-11-14T21:25:06">
+        <attvalues/>
+      </edge>
+      <edge id="666692732870504448" source="593531383" target="1572472460" start="2015-11-17T19:01:48">
+        <attvalues/>
+      </edge>
+      <edge id="665406571950813184" source="124857648" target="273065836" start="2015-11-14T05:51:04">
+        <attvalues/>
+      </edge>
+      <edge id="666686454119006209" source="193275169" target="1572472460" start="2015-11-17T18:36:51">
+        <attvalues/>
+      </edge>
+      <edge id="665612212942278656" source="2459550990" target="116311025" start="2015-11-14T19:28:12">
+        <attvalues/>
+      </edge>
+      <edge id="666816546526752768" source="2439914383" target="1572472460" start="2015-11-18T03:13:48">
+        <attvalues/>
+      </edge>
+      <edge id="666626803658805248" source="3001149971" target="568709751" start="2015-11-17T14:39:49">
+        <attvalues/>
+      </edge>
+      <edge id="666508626018902016" source="452460392" target="980250804" start="2015-11-17T06:50:14">
+        <attvalues/>
+      </edge>
+      <edge id="666684540346220544" source="4270275793" target="1572472460" start="2015-11-17T18:29:15">
+        <attvalues/>
+      </edge>
+      <edge id="666181966115508224" source="586597811" target="37291805" start="2015-11-16T09:12:12">
+        <attvalues/>
+      </edge>
+      <edge id="666745953043374080" source="505638293" target="1572472460" start="2015-11-17T22:33:17">
+        <attvalues/>
+      </edge>
+      <edge id="665508212049879040" source="2813252366" target="116311025" start="2015-11-14T12:34:56">
+        <attvalues/>
+      </edge>
+      <edge id="666762268080648195" source="310110754" target="1572472460" start="2015-11-17T23:38:07">
+        <attvalues/>
+      </edge>
+      <edge id="665456474328551424" source="2943823053" target="75740417" start="2015-11-14T09:09:21">
+        <attvalues/>
+      </edge>
+      <edge id="666686394845171712" source="132911028" target="1572472460" start="2015-11-17T18:36:37">
+        <attvalues/>
+      </edge>
+      <edge id="666644562530557956" source="547818060" target="1572472460" start="2015-11-17T15:50:24">
+        <attvalues/>
+      </edge>
+      <edge id="666334084340281344" source="2314920467" target="483289453" start="2015-11-16T19:16:40">
+        <attvalues/>
+      </edge>
+      <edge id="666684467163979776" source="2336920604" target="1572472460" start="2015-11-17T18:28:58">
+        <attvalues/>
+      </edge>
+      <edge id="666629936698945536" source="85301908" target="1572472460" start="2015-11-17T14:52:16">
+        <attvalues/>
+      </edge>
+      <edge id="666913057587630080" source="190573129" target="1572472460" start="2015-11-18T09:37:18">
+        <attvalues/>
+      </edge>
+      <edge id="666687260755038209" source="3029809612" target="1572472460" start="2015-11-17T18:40:04">
+        <attvalues/>
+      </edge>
+      <edge id="666858969332256768" source="1562957431" target="1572472460" start="2015-11-18T06:02:22">
+        <attvalues/>
+      </edge>
+      <edge id="666860743959121920" source="2936472497" target="1572472460" start="2015-11-18T06:09:25">
+        <attvalues/>
+      </edge>
+      <edge id="665491004569595904" source="23151552" target="116311025" start="2015-11-14T11:26:34">
+        <attvalues/>
+      </edge>
+      <edge id="666906674888704000" source="156464691" target="278088995" start="2015-11-18T09:11:56">
+        <attvalues/>
+      </edge>
+      <edge id="666686410120806400" source="3480069260" target="1572472460" start="2015-11-17T18:36:41">
+        <attvalues/>
+      </edge>
+      <edge id="666719519138824192" source="1004764644" target="966445441" start="2015-11-17T20:48:15">
+        <attvalues/>
+      </edge>
+      <edge id="666646852939321344" source="402328841" target="192060796" start="2015-11-17T15:59:30">
+        <attvalues/>
+      </edge>
+      <edge id="667014384896507905" source="226148707" target="1572472460" start="2015-11-18T16:19:56">
+        <attvalues/>
+      </edge>
+      <edge id="666906783366037504" source="2302669285" target="278088995" start="2015-11-18T09:12:22">
+        <attvalues/>
+      </edge>
+      <edge id="666684026523140096" source="130104041" target="1572472460" start="2015-11-17T18:27:12">
+        <attvalues/>
+      </edge>
+      <edge id="667087728522215425" source="595506203" target="2248684005" start="2015-11-18T21:11:23">
+        <attvalues/>
+      </edge>
+      <edge id="665491351610523648" source="594028608" target="116311025" start="2015-11-14T11:27:57">
+        <attvalues/>
+      </edge>
+      <edge id="667128231385018368" source="3001149971" target="568709751" start="2015-11-18T23:52:19">
+        <attvalues/>
+      </edge>
+      <edge id="666627417545572352" source="184008661" target="1572472460" start="2015-11-17T14:42:16">
+        <attvalues/>
+      </edge>
+      <edge id="665489594469769216" source="334600607" target="116311025" start="2015-11-14T11:20:58">
+        <attvalues/>
+      </edge>
+      <edge id="666744826130399233" source="142023476" target="1572472460" start="2015-11-17T22:28:48">
+        <attvalues/>
+      </edge>
+      <edge id="666687574610739202" source="48396537" target="1572472460" start="2015-11-17T18:41:18">
+        <attvalues/>
+      </edge>
+      <edge id="665555141404319744" source="59981930" target="55491369" start="2015-11-14T15:41:25">
+        <attvalues/>
+      </edge>
+      <edge id="666713854466895872" source="458637630" target="1572472460" start="2015-11-17T20:25:44">
+        <attvalues/>
+      </edge>
+      <edge id="666684683829186560" source="2313487754" target="1572472460" start="2015-11-17T18:29:49">
+        <attvalues/>
+      </edge>
+      <edge id="666844498949894144" source="562197486" target="1572472460" start="2015-11-18T05:04:52">
+        <attvalues/>
+      </edge>
+      <edge id="666684930991063040" source="45177874" target="1572472460" start="2015-11-17T18:30:48">
+        <attvalues/>
+      </edge>
+      <edge id="666776485672435712" source="3063960286" target="92717464" start="2015-11-18T00:34:36">
+        <attvalues/>
+      </edge>
+      <edge id="666685468260622337" source="3193092325" target="1572472460" start="2015-11-17T18:32:56">
+        <attvalues/>
+      </edge>
+      <edge id="666627572063571968" source="454833482" target="1572472460" start="2015-11-17T14:42:53">
+        <attvalues/>
+      </edge>
+      <edge id="666684111168237568" source="113877441" target="1572472460" start="2015-11-17T18:27:33">
+        <attvalues/>
+      </edge>
+      <edge id="666629027571105792" source="2584412440" target="568709751" start="2015-11-17T14:48:40">
+        <attvalues/>
+      </edge>
+      <edge id="666685752013516801" source="370507954" target="1572472460" start="2015-11-17T18:34:04">
+        <attvalues/>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
