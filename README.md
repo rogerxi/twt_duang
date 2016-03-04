@@ -1,10 +1,11 @@
 Twitter API/Gephi
 
 
-Development Environment: Python 2.7.10
+1. DEVELOPMENT ENVIRONMENT
+Python 2.7.10
 
 
-Implementation
+2. IMPLEMENTATION
 
 Our goal of the task is to analyze Twitter tweets about the recent tragedy Paris attacks, and build a network between the source user who posts tweets and the target user who receives them by using Gephi.
 
@@ -15,7 +16,7 @@ Given one query parameter, e.g., “attack”, the API would feed back the tweet
 Well, after the database is prepared, we can retrieve the nodes and links to output into a GEXF file. It is implemented in a Python program. Import the package pygexf to create a file and add one graph, and add each node and link into the graph. Map (user ID, user screen name, created date / time) to node (id, label, start), and (tweet ID, source user ID, target user ID, created date / time) to link (id, source, target, start) in gexf format. And then output the graph to the file.
 
 
-Troubleshooting
+3. TROUBLESHOOTING
 
 In MAC OS X, if there are some issues about packages such as lxml and gexf, try the possible solutions:
 
@@ -26,7 +27,7 @@ In MAC OS X, if there are some issues about packages such as lxml and gexf, try 
 •	Run sudo pip install lxml
 
 
-Reference
+4. REFERENCE
 
 https://github.com/dudaspm/DataAnalytics/blob/master/Week8/getTweets.py
 https://github.com/paulgirard/pygexf
